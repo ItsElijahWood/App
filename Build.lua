@@ -11,10 +11,10 @@ local function compile()
     local output
 
     if choice == "1" then
-        output = "Binaries/Windows/Game"
+        output = "Binaries/Windows/App"
         print("Compiling your C++ files for Windows...")
     elseif choice == "2" then
-        output = "Binaries/Linux/Game"
+        output = "Binaries/Linux/App"
         print("Compiling your C++ files for Linux...")
     else
         print("Invalid choice. Please select 1 for Windows or 2 for Linux.")
