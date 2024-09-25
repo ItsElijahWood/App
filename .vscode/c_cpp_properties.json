@@ -3,7 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\ejthe\\dev\\itselijahwood\\MyGame\\GEngine\\include"
+                "C:\\Users\\ejthe\\dev\\itselijahwood\\App\\Engine\\include"
             ],
             "defines": [
                 "_DEBUG",

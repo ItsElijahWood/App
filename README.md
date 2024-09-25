@@ -1,4 +1,4 @@
-C++ App
+### C++ App
 
 ## Overview
 This project is currently in the making.
