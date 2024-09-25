@@ -1,7 +1,7 @@
-### C++ App
+## C++ App
 
-## Overview
+# Overview
 This project is currently in the making.
 
-## License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
